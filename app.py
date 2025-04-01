@@ -8,7 +8,9 @@ os.makedirs("output", exist_ok=True)
 def run_avatar_demo():
         video_path = "output/results.mp4"
         time.sleep(1)
-        return video_path
+        if os.path.exists(video_path):
+                return video_path
+        return ""
 
 def run_avatar(text, expression):
     video_path = "output/results.mp4"
