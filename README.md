@@ -73,6 +73,11 @@ A comprehensive project for generating realistic text-to-speech (TTS), emotion-b
 ---
 
 
+## Results
+
+
+https://github.com/user-attachments/assets/7a075ce5-d119-430a-a600-f041ca52f921
+
 
 ## Notes
 
